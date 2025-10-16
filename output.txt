@@ -1,0 +1,18 @@
+{
+  "chain": "main",
+  "blocks": 378818,
+  "headers": 919200,
+  "bestblockhash": "0000000000000000068f577ec81aef9fc5d9c8ee09e7f25b740733236b7951ff",
+  "difficulty": 60813224039.44035,
+  "time": 1444803025,
+  "mediantime": 1444801020,
+  "verificationprogress": 0.08359521071544497,
+  "initialblockdownload": true,
+  "chainwork": "0000000000000000000000000000000000000000000b14ed867533738de295c2",
+  "size_on_disk": 927266276,
+  "pruned": true,
+  "pruneheight": 378362,
+  "automatic_pruning": true,
+  "prune_target_size": 1048576000,
+  "warnings": ""
+}
